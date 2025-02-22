@@ -16,8 +16,8 @@ Este repositorio contiene una aplicación de chat compuesta por un **servidor** 
 ### Servidor (obligatorio usar Docker)
 - **Docker Desktop** instalado y corriendo
 - Construye y ejecuta el ambiente con:
-docker build -t chat-server .
-docker run -d -p 5000:5000 --name servidor_chat chat-server
+  docker build -t chat-server .
+  docker run -d -p 5000:5000 --name servidor_chat chat-server
 
 ### Cliente (ejecución local)
 - **Tkinter** (en Windows y macOS viene preinstalado)
