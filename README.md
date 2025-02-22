@@ -1,4 +1,4 @@
-# Chat App Project
+# Chat Cliente Servidor
 
 Este repositorio contiene una aplicación de chat compuesta por un **servidor** y uno o más **clientes**.
 
